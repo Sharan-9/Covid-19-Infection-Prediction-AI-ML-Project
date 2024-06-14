@@ -1,5 +1,6 @@
 # Covid-19-Infection-Prediction-AI-ML-Project
 By - Sharan Nallathuru
+
 Technological advancement has a profound effect
 on all spheres of life, whether in the medical field or in any
 other field. Artificial intelligence has shown promising results in
